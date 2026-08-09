@@ -59,4 +59,4 @@ Once approved, the app organizes everything around individual patients:
 ## Support
 
 For questions, account issues, or to get your institution set up:
-**[CONTACT EMAIL]**
+**[contact@qubators.org]**
