@@ -1,4 +1,4 @@
-# Metabolic Nuclear Medicine Platform — User Manual
+# Metabolic Nuclear Medicine Platform
 
 ## What This App Is
 
